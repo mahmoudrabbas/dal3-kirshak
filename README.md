@@ -57,13 +57,13 @@ The app is fully responsive and mobile-friendly. Whether on desktop or mobile, t
   ![Contact](/public/preview/contact.png)
 
 - Menu page
-  ![Menu](/public/preview/contact.png)
+  ![Menu](/public/preview/menu.png)
 
 - Cart page
   ![Cart](/public/preview/cart.png)
 
 - Payment page
-  ![Cart](/public/preview/payment.png)
+  ![Payment](/public/preview/payment.png)
 
 - Login page
   ![Login](/public/preview/login.png)
