@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Dal3 Kirshak
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Dal3 Kirshak** is a modern and responsive food ordering and restaurant management web application built with React.  
+It provides a simple and elegant dashboard to view orders, track revenue, and manage food items easily.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Preview
 
-### `npm start`
+![App Preview](public/507shots_so.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Real-time Dashboard with statistics
+- Recent orders list with status
+- Daily revenue tracker
+- Customer tracking
+- Menu item management
+- Fully responsive layout for mobile and desktop
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend:** React.js, Bootstrap 5
+- **Styling:** Custom CSS + Bootstrap classes
+- **Icons & Badges:** Bootstrap utilities
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Responsive Design
 
-### `npm run eject`
+The app is fully responsive and mobile-friendly. Whether on desktop or mobile, the layout adapts seamlessly to all screen sizes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> You can include your screenshots like this below:
 
-## Learn More
+- Home page  
+  ![Home Page](/public/preview/home.png)
+  ![Home Page1](/public/preview/home1.png)
+  ![Home Page2](/public/preview/home2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Dashboard page
+  ![Dashboard](/public/preview/dashboard.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- About page
+  ![About](/public/preview/about.png)
 
-### Code Splitting
+- Contact page
+  ![Contact](/public/preview/contact.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Menu page
+  ![Menu](/public/preview/contact.png)
 
-### Analyzing the Bundle Size
+- Cart page
+  ![Cart](/public/preview/cart.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Payment page
+  ![Cart](/public/preview/payment.png)
 
-### Making a Progressive Web App
+- Login page
+  ![Login](/public/preview/login.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Register page
+  ![Register](/public/preview/register.png)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📌 How to Run Locally
 
-### Deployment
+1. Clone the repository:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+   ```bash
+   git clone https://github.com/mahmoudrabbas/dal3-kirshak.git
+   ```
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+2. cd dal3-kirshak
+3. npm install
+4. npm start
+5. visit=> http://localhost:3000
